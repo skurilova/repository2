@@ -1,0 +1,53 @@
+body {
+  background-color: #FFF5E0;
+}
+
+.pwithgreenborder {
+	border-style: hidden solid hidden solid;
+	border-color: #B6C4B6;
+	border-width: 15px;
+	margin: 25px;
+	outline: #E8DFCA solid 10px;
+	padding: 25px;
+}
+
+.galleryimage {
+  width: 100%;
+}
+
+.mainphoto {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#indexheader {
+	font-size: 60px;
+	text-align: center;
+}
+
+ul {
+	padding-inline-start: 0px;
+}
+
+li {
+	display: inline;
+}
+
+a:link {
+	background-color: #B80000;
+	color: white;
+	padding: 14px;
+	text-align: center;
+	text-decoration: none
+}
+
+a:hover, a:active {
+	background-color: #BF3131;
+}
+
+a:visited {
+	color: #EAD196;
+}
+
+	
